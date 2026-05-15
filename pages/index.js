@@ -11,11 +11,11 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Bienvenu sur <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing <code>pages/index.js</code>
+         Ici et au-dessus le texte a changé ! <code>pages/index.js</code>
         </p>
 
         <div className={styles.grid}>
